@@ -1,0 +1,6 @@
+just created an empty repository from github.com 
+and close the repository by clicking on class icone top right corner and 
+new repository  and give a name and click create
+cloned this repository by clickin on srt up on desktop
+optionally select the location= click on clone 
+it cloned our remote repo to local so we can start working localy 
