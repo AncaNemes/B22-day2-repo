@@ -3,3 +3,10 @@ few things happened:
 1 it automatically created new remote repo under your git hub.com account
 2. made the connection with you local git repo
 3. added all your commits to remote repo
+
+
+Now are work will continue locally 
+1. add a new file called note.txt
+2.commit to change it to local repo
+3. we want the change to ve reflected in remote repository. We pushed local commits to remote repository using puch origin button 
+4.observe it has been added in your repository under GitHub.com
